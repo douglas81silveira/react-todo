@@ -11,14 +11,14 @@ Para rodar a aplicação é necessário ter o pacote json-server e react-icons i
 
 ## Comandos
 
-instalação dos pacotes usados no projeto
+Instalação dos pacotes usados no projeto:
 
 > npm install json-server react-icons
 
-inicia um servidor em localhost:5000 que simula uma API através do arquivo '/data/db.json'
+Inicia um servidor em _http://localhost:5000_ que simula uma API através do arquivo '/data/db.json':
 
 > npm run server
 
-inicia o react app em localhost
+Inicia o react-app em _localhost_:
 
 > npm start
